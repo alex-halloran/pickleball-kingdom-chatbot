@@ -1,0 +1,18 @@
+{
+  "name": "pickleball-kingdom-chatbot",
+  "version": "1.0.0",
+  "description": "Chatbot for Pickleball Kingdom to handle common inquiries and provide information based on our policies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node examples/basic-integration.js"
+  },
+  "keywords": [
+    "pickleball",
+    "chatbot",
+    "customer service"
+  ],
+  "author": "Pickleball Kingdom",
+  "license": "UNLICENSED",
+  "private": true
+}
